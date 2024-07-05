@@ -16,7 +16,7 @@ Skills: C/ C++/Data Structure/Algorithm /Java/ HTML / CSS/.NET/JS/React/Node.js/
 - 🤔 I’m looking for help with Dynamic Programming, Machine Learning, and Smart Contracts so that I can enhance my knowledge in these areas. 
 - 💬 Ask me about OOP,Data Structure,Algorithm,Full-Stack Web Development, Smart Contract. 
 - 📫 How to reach me: shureedshazzad534@gmail.com 
-- ⚡ Fun fact: I enjoy playing and watching football, playing video games, and watching documentaries about medieval history. 
+- ⚡ Fun fact: I enjoy playing and watching football, watching anime, playing video games and watching documentaries about medieval history. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shureedshazzad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shureed-shazzad-663b17245/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B93IEzd8%2FTzCSeiM7S7u0oA%3D%3D)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21158734/shureed-shazzad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/shureedshazzad534)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://www.geeksforgeeks.org/user/shureedshazzad534/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/Shureed/#:~:text=Premium-,Shureed%20Shazzad,-Shureed)  
