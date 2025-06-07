@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shureed Shazzad</h1>
 <h3 align="center">Passionate undergraduate Computer Science student aspiring to become a skilled software developer. Enthusiastic about blockchain technology and artificial intelligence, eager to explore and innovate in these cutting-edge fields.</h3>
 
+<h3 align="left">📄 My Resume:</h3>
+<p align="left">
+  <a href="https://drive.google.com/drive/folders/1tkwrR1J-6pX8EVU1m4IM2EbkkjRY-NKR" target="_blank">
+    Click here to view/download my CV
+  </a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shureedshazzad&label=Profile%20views&color=0e75b6&style=flat" alt="shureedshazzad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shureedshazzad" alt="shureedshazzad" /></a> </p>
