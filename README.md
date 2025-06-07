@@ -4,7 +4,7 @@
 
 <h3 align="left">📄 My Resume:</h3>
 <p align="left">
-  <a href="https://drive.google.com/uc?export=download&id=1tkwrR1J-6pX8EVU1m4IM2EbkkjRY-NKR" target="_blank">
+  <a href="https://drive.google.com/file/d/1tkwrR1J-6pX8EVU1m4IM2EbkkjRY-NKR/view?usp=sharing" target="_blank">
     Click here to view/download my CV
   </a>
 </p>
