@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shureed Shazzad</h1>
 <h3 align="center">Passionate undergraduate Computer Science student aspiring to become a skilled software developer. Enthusiastic about blockchain technology and artificial intelligence, eager to explore and innovate in these cutting-edge fields.</h3>
 
-<h3 align="left">📄 My Resume:</h3>
-<p align="left">
-  <a href="https://github.com/shureedshazzad/My-Resume/blob/3e712aaa84a523e9eb537ce2012a90ef0f7be99b/Shureed_Shazzad.pdf" target="_blank">
-    Click here to view/download my CV
-  </a>
-</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shureedshazzad&label=Profile%20views&color=0e75b6&style=flat" alt="shureedshazzad" /> </p>
