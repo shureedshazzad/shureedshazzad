@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shureedshazzad" alt="shureedshazzad" /></a> </p>
 
-- 🔭 I’m currently working on [Full-Stack MERN Project](https://github.com/shureedshazzad/QuizNexus)
+- 🔭 I’m currently working as a **Java Backend Engineer**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
