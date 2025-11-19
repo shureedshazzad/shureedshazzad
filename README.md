@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shureed Shazzad</h1>
-<h3 align="center"> Passionate Computer Science graduate from KUET, aspiring to become a skilled software developer. Enthusiastic about blockchain technology and artificial intelligence, with a strong desire to explore and innovate in these cutting-edge fields. <br><br> I am beginning my journey in the software engineering industry with a strong eagerness to learn, grow, and embrace new technologies while contributing to impactful projects. Driven by problem-solving and continuous improvement, I’m excited to develop my skills and build a strong career in software development. </h3>
-
+<h3 align="center"> Currently working as a software professional, driven by a passion for problem-solving and continuous improvement. I’m committed to expanding my expertise, embracing new technologies, and building a strong career in software development. </h3>
 
 
 
