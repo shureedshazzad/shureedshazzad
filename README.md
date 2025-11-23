@@ -19,9 +19,7 @@
 
 - ⚡ Fun fact **I like watching and playing football, playing video games, and watching documentaries about the history of mankind.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
