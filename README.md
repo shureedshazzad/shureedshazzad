@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shureed Shazzad</h1>
-<h3 align="center"> Currently working as a software professional, driven by a passion for problem-solving and continuous improvement. I’m committed to expanding my expertise, embracing new technologies, and building a strong career in software development. </h3>
+<h3 align="center"> Currently working as a software engineer, driven by a passion for problem-solving and continuous improvement. I’m committed to expanding my expertise, embracing new technologies, and building a strong career in software development. </h3>
 
 
 
